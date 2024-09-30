@@ -1,0 +1,43 @@
+.gallerie {
+	flex-grow: 1;
+	background-color: blue;
+	color: white;
+	border-radius: 15px;
+	display: flex;
+	justify-content: center;
+	gap: 5px;
+}
+
+.Home {
+	flex-grow: 2;
+	background-color: rgba(255, 57, 31, 0.795);
+	color: white;
+	border-radius: 15px;
+	display: flex;
+	justify-content: center;
+}
+
+.About {
+	flex-grow: 1;
+	background-color: blue;
+	color: white;
+	border-radius: 15px;
+	display: flex;
+	justify-content: center;
+}
+
+.nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: stretch;
+	padding: 12px;
+	gap: 0 12px;
+}
+
+
+.trai {
+	color: black;
+	width: 300px;
+	height: 15px;
+}
